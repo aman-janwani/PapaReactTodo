@@ -1209,6 +1209,11 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
+"@heroicons/react@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-1.0.4.tgz#11847eb2ea5510419d7ada9ff150a33af0ad0863"
+  integrity sha512-3kOrTmo8+Z8o6AL0rzN82MOf8J5CuxhRLFhpI8mrn+3OqekA6d5eb1GYO3EYYo1Vn6mYQSMNTzCWbEwUInb0cQ==
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
@@ -9013,6 +9018,11 @@ react-error-overlay@^6.0.9:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
   integrity sha512-nQTTcUu+ATDbrSD1BZHr5kgSD4oF8OFjxun8uAaL8RwPBacGBNPf/yAuVVdx17N8XNzRDMrZ9XcKZHCjPW+9ew==
 
+react-flip-move@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/react-flip-move/-/react-flip-move-3.0.4.tgz#261f66101fbc305f9b7b28959c5cf8236413ca74"
+  integrity sha512-HyUVv9g3t/BS7Yz9HgrtYSWyRNdR2F81nkj+C5iRY675AwlqCLB5JU9mnZWg0cdVz7IM4iquoyZx70vzZv3Z8Q==
+
 react-is@^16.8.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
@@ -10877,7 +10887,7 @@ uuid@^3.3.2, uuid@^3.4.0:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
 
-uuid@^8.3.0:
+uuid@^8.3.0, uuid@^8.3.2:
   version "8.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
   integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
